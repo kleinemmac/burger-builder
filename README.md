@@ -18,7 +18,8 @@ ReactJs
 - executing media queries and making a ReactJs app responsive
 - using .keys to turn an object into an array
 - calculating sums dynamically using .map and .concat
-- analysing and improving performance by looking for state/prop changes that might trigger unnecessary re-rendering
+- analysing application performance by looking for state/prop changes that might trigger unnecessary re-rendering
+- preventing unnecessary re-rendering using life cycle hooks
 - passing method references to components
 
 ## Project setup
