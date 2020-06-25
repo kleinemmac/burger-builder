@@ -1,5 +1,5 @@
 # Burger Builder
-Burger Builder is a mock application that allows users to customize a burger order and see the updates/price in real time.
+Burger Builder is a mock application that allows users to customize a burger order and see the updates and price in real time.
 
 ## Purpose
 The purpose of this project was to establish a starting point with the ReactJs framework.
@@ -21,6 +21,9 @@ ReactJs
 - analysing application performance by looking for state/prop changes that might trigger unnecessary re-rendering
 - preventing unnecessary re-rendering using life cycle hooks
 - passing method references to components
+- executing global error handling
+- implementing loading state and spinner
+- performing post and get requests
 
 ## Project setup
 ```
